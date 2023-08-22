@@ -1,2 +1,2 @@
 # My-RestApi
-Example : https://ipa.zonerweb.biz.id/
+Example : https://api.zonerweb.biz.id/
